@@ -21,7 +21,7 @@ pipeline {
       steps {
       
       echo "deploying to tomcat "
-      echo "webhook  add 1 "
+      echo "webhook  adde345 "
      //deploy adapters: [tomcat9(credentialsId: '431afeec-05a8-4be8-95d1-2fd81191d248', path: '', url: 'http://3.112.198.239:8081/')], contextPath: 'PipelineSample', onFailure: false, war: '**/*.war'
       }
     }
